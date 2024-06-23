@@ -111,27 +111,27 @@ const SecondPage = () => {
                 <span className="p-2">
                 Taxpayer name and address
               </span>
-              <input type="text" className="w-[90%] outline-none  bg-slate-100 h-14 px-4"  />
+              <input type="text" className="w-[90%] outline-none   h-14 px-4"  />
             </div>
             <div className="md:w-2/6  sm:w-full">
               <span>
                 <label htmlFor="">
                  Taxpayer identification number(s)
                 </label>
-                <input type="text" className="w-[90%] outline-none bg-slate-100 px-1"  />
+                <input type="text" className="w-[90%] outline-none  px-1"  />
                </span>
                <div className="flex gap-1 border-t-2 border-stone-950">
               <span className="border-r-2 border-stone-950 px-1">
                 <label htmlFor="">
                 Daytime telephone number 
                 </label>
-                <input type="text" className="w-full outline-none bg-slate-100 px-1"  />
+                <input type="text" className="w-full outline-none  px-1"  />
                </span>
               <span>
                 <label htmlFor="">
                 Plan number (if applicable) 
                 </label>
-                <input type="text" className="w-full outline-none bg-slate-100 px-1"  />
+                <input type="text" className="w-full outline-none  px-1"  />
                </span>
                </div>
             </div>

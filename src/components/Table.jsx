@@ -22,22 +22,22 @@ const Table = () => {
         </thead>
         <tbody>
             <tr>
-                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1 placeholder:text-black" placeholder="Income"/></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1 placeholder:text-black" placeholder="1040"/></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1 placeholder:text-black" placeholder="2019 - 2023"/></td>
-                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1 placeholder:text-black" placeholder="Not applicable"/></td>
+                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1 placeholder:text-black" placeholder="Income"/></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1 placeholder:text-black" placeholder="1040"/></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1 placeholder:text-black" placeholder="2019 - 2023"/></td>
+                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1 placeholder:text-black" placeholder="Not applicable"/></td>
             </tr>
             <tr>
-                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
+                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
             </tr>
             <tr>
-                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
-                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none bg-slate-100 p-1" /></td>
+                <td className="border-l-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
+                <td className="border-r-0 border border-stone-950 p-2"><input type="text" className="w-full outline-none  p-1" /></td>
             </tr>
         </tbody>
     </table>
